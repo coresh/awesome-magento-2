@@ -8,18 +8,18 @@ Inspired by: https://github.com/ziadoz/awesome-php
 - [Awesome Magento 2](#awesomemagento2)
     - [Blog](#blog)
     - [Search](#search)
-    - [Email SMTP](#email)
-    - [Command line / CLI tools](#commandline)
-- [Import / Export / Data migration](#importexport)
+    - [Email SMTP](#email-smtp)
+    - [Command line CLI tools](#command-line-cli-tools)
+- [Import Export Data migration](#importexport)
     - [From Magento 1 to Magento 2 data Migration Tool](#datamigration)
-- [Custom scripts with tag 'programmatically'](#customscripts)
-    - [Category / Catalog](#categoryscripts)
-        - [Create category](#createcategory)
-        - [Update category](#updatecategory)
-- [Sample of extensions](#sampleofextension)
+- [Custom scripts with tag programmatically](#custom-scripts-with-tag-programmatically)
+    - [Category Catalog](#category-catalog)
+        - [Create category](#create-category)
+        - [Update category](#update-category)
+- [Sample of extensions](#sample-of-extension)
 
 
-## Blog Extensions for Magento 2
+## Blog
 Blog Extensions for Magento 2
 
 * [Magefan Blog Extension for Magento 2](https://github.com/magefan/module-blog) - Blog module allows you to create a full-fledged blog on your Magento 2 Store
@@ -35,18 +35,18 @@ Search managment
 * [Smtp extension for Magento 2 shockwavemk mail module](https://github.com/shockwavemk/magento2-module-mail-smtp) - This module extends the capabilities of Magento 2 mailing by smtp host configuration
 * [Gmail Smtp App for Magento2](https://github.com/magepal/magento2-gmailsmtpapp) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES) and other SMTP server.
 
-## Command line / CLI tools
+## Command line CLI tools
 Provides some handy tools to work with Magento 2 from command line
 
 * [netz98 magerun CLI tools for Magento 2](https://github.com/netz98/n98-magerun2) - he n98 magerun cli tools provides some handy tools to work with Magento from command line
 
-## Import / Export / Data migration
+## Import Export Data migration
 
 * [From Magento 1 to Magento 2 data Migration Tool](https://github.com/magento/data-migration-tool) - Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations
 
 ## Custom scripts with tag 'programmatically'
 Any purpose custom scripts
-* Category / Catalog
+* Category Catalog
     * [Create category](https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php) - Example of creating category programmatically
     * [Update category programmatically](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
 
