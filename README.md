@@ -5,7 +5,7 @@
 Inspired by: https://github.com/ziadoz/awesome-php
 
 ## Table of Contents
-- [Awesome Magento 2](#awesomemagento2)
+- [Awesome Magento 2 Extensions](#awesome-magento-2-extensions)
     - [Blog](#blog)
     - [Search](#search)
     - [Email SMTP](#email-smtp)
@@ -18,7 +18,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
         - [Update category](#update-category)
 - [Sample of extensions](#sample-of-extension)
 
-
+## Awesome Magento 2 Extensions
 ## Blog
 Blog Extensions for Magento 2
 
