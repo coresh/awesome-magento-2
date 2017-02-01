@@ -11,9 +11,9 @@ Inspired by: https://github.com/ziadoz/awesome-php
     - [Email SMTP](#email-smtp)
     - [Command line CLI tools](#command-line-cli-tools)
 - [Import Export Data migration](#import-export-data-migration)
-    - [From Magento 1 to Magento 2 data Migration Tool](#from-magento-1-to-magento-2-data-migration-tool)
+    - [Migration from Magento 1 to Magento 2](#migration-from-magento-1-to-magento-2)
 - [Custom scripts with tag programmatically](#custom-scripts-with-tag-programmatically)
-    - [Category Catalog](#category-catalog)
+    - [Category](#category)
         - [Create category](#create-category)
         - [Update category](#update-category)
 - [Sample of extensions](#sample-of-extensions)
@@ -30,7 +30,7 @@ Search managment
 * [ElasticSearch](https://github.com/Smile-SA/elasticsuite) - Smile ElasticSuite - Magento 2 Merchandising built on ElasticSearch
 
 ## Email SMTP
-Search managment
+Email managment, smtp support
 
 * [Smtp extension for Magento 2 shockwavemk mail module](https://github.com/shockwavemk/magento2-module-mail-smtp) - This module extends the capabilities of Magento 2 mailing by smtp host configuration
 * [Gmail Smtp App for Magento2](https://github.com/magepal/magento2-gmailsmtpapp) - Configure Magento 2 to send all transactional email using Google App, Gmail, Amazon Simple Email Service (SES) and other SMTP server.
@@ -42,11 +42,12 @@ Provides some handy tools to work with Magento 2 from command line
 
 ## Import Export Data migration
 
-* [From Magento 1 to Magento 2 data Migration Tool](https://github.com/magento/data-migration-tool) - Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations
+* [Migration from Magento 1 to Magento 2](https://github.com/magento/data-migration-tool) - Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations
 
 ## Custom scripts with tag programmatically
 Any purpose custom scripts
-* Category Catalog
+
+* Category
     * [Create category](https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php) - Example of creating category programmatically
     * [Update category](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
 
