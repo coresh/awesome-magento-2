@@ -42,14 +42,20 @@ Provides some handy tools to work with Magento 2 from command line
 
 ## Import Export Data migration
 
+## Migration from Magento 1 to Magento 2
+
 * [Migration from Magento 1 to Magento 2](https://github.com/magento/data-migration-tool) - Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations
 
 ## Custom scripts with tag programmatically
 Any purpose custom scripts
 
-* Category
-    * [Create category](https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php) - Example of creating category programmatically
-    * [Update category](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
+## Category
+
+#### Create category
+* [Create category](https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php) - Example of creating category programmatically
+
+#### Update category
+* [Update category](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
 
 ## Sample of extensions
 
