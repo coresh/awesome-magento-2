@@ -16,7 +16,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
     - [Category Catalog](#category-catalog)
         - [Create category](#create-category)
         - [Update category](#update-category)
-- [Sample of extensions](#sample-of-extension)
+- [Sample of extensions](#sample-of-extensions)
 
 ## Awesome Magento 2 Extensions
 ## Blog
@@ -44,11 +44,11 @@ Provides some handy tools to work with Magento 2 from command line
 
 * [From Magento 1 to Magento 2 data Migration Tool](https://github.com/magento/data-migration-tool) - Magento 2 migration involves four components: data, extensions and custom code, themes, and customizations
 
-## Custom scripts with tag 'programmatically'
+## Custom scripts with tag programmatically
 Any purpose custom scripts
 * Category Catalog
     * [Create category](https://github.com/coresh/magento2scripts/blob/master/magento2_create_category_programmatically.php) - Example of creating category programmatically
-    * [Update category programmatically](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
+    * [Update category](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
 
 ## Sample of extensions
 
