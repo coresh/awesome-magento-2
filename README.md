@@ -25,7 +25,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
 Blog Extensions for Magento 2
 
 * [Magefan Blog Extension for Magento 2](https://github.com/magefan/module-blog) - Blog module allows you to create a full-fledged blog on your Magento 2 Store
-* [Magento 2 Blog extension](https://github.com/mageplaza/magento-2-blog-extension) - Is integrated right into the Magento backend so you can manage your blog and your e-commerce store all in the one place
+* [Magento 2 Blog extension by Mageplaza](https://github.com/mageplaza/magento-2-blog-extension) - Is integrated right into the Magento backend so you can manage your blog and your e-commerce store all in the one place
 
 ## Search
 Search managment
