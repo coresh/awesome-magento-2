@@ -17,6 +17,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
         - [Create category](#create-category)
         - [Update category](#update-category)
 - [Data generators](#data-generators)
+- [Social integration](#social-integration)
 - [Sample of extensions](#sample-of-extensions)
 
 ## Awesome Magento 2 Extensions
@@ -24,6 +25,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
 Blog Extensions for Magento 2
 
 * [Magefan Blog Extension for Magento 2](https://github.com/magefan/module-blog) - Blog module allows you to create a full-fledged blog on your Magento 2 Store
+* [Magento 2 Blog extension](https://github.com/mageplaza/magento-2-blog-extension) - Is integrated right into the Magento backend so you can manage your blog and your e-commerce store all in the one place
 
 ## Search
 Search managment
@@ -61,6 +63,10 @@ Any purpose custom scripts
 ## Data generators
 
 * [Magento 2 sample data generator](https://github.com/rogyar/m2-sampledata-generator) - The extension adds an additional CLI command to Magento 2 that allows to generate sample entities: Products, Categories, Customers, Orders
+
+## Social integration
+
+* [Magento 2 Social Login module by Mageplaza](https://github.com/mageplaza/Magento-2-Social-Login-Extension) - Magento 2 Social Login extension is simply and powerful tool to integrate your Magento customer account to Facebook, Google Plus, Twitter, LinkedIn, and Instagram channel
 
 ## Sample of extensions
 
