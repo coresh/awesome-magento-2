@@ -17,6 +17,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
         - [Create category](#create-category)
         - [Update category](#update-category)
 - [Data generators](#data-generators)
+- [Analytics](#analitics)
 - [Social integration](#social-integration)
 - [Sample of extensions](#sample-of-extensions)
 
@@ -67,6 +68,10 @@ Any purpose custom scripts
 ## Social integration
 
 * [Magento 2 Social Login module by Mageplaza](https://github.com/mageplaza/Magento-2-Social-Login-Extension) - Magento 2 Social Login extension is simply and powerful tool to integrate your Magento customer account to Facebook, Google Plus, Twitter, LinkedIn, and Instagram channel
+
+## Analitics
+
+* [Magento 2 Google Analytics Pro by Mageplaza](https://github.com/mageplaza/Magento-2-Google-Analytics-Pro) - Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store
 
 ## Sample of extensions
 
