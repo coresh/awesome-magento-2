@@ -77,6 +77,6 @@ Any purpose custom scripts
 * [Module theme](https://github.com/magento/magento2-samples/tree/master/sample-module-theme) - This extension contains a sample theme for Magento 2
 * [Webapi client](https://github.com/magento/magento2-samples/tree/master/sample-module-webapi-client) - This module contains a page which can be viewed at /samplewebapiclient. This page features a demo of REST API being used to query products
 * [Webflow](https://github.com/magento/magento2-samples/tree/master/sample-module-webflow) - This extension contains a simple demonstrate of two page linked together in a flow. The example can be accessed at the following url: 'magento2-url/webflow/firstpage'
-
+* [Magento 2 sample data generator](https://github.com/rogyar/m2-sampledata-generator) - The extension adds an additional CLI command to Magento 2 that allows to generate sample entities: Products, Categories, Customers, Orders
 
 
