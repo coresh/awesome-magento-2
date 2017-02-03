@@ -18,6 +18,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
         - [Update category](#update-category)
 - [Data generators](#data-generators)
 - [Analytics](#analitics)
+- [SEO](#seo)
 - [Social integration](#social-integration)
 - [Sample of extensions](#sample-of-extensions)
 
@@ -72,6 +73,10 @@ Any purpose custom scripts
 ## Analitics
 
 * [Magento 2 Google Analytics Pro by Mageplaza](https://github.com/mageplaza/Magento-2-Google-Analytics-Pro) - Google Analytics allow admin setup Google Analytics Universial quickly by adding multiple tracking ID in store
+
+## SEO
+
+* [Magento 2 SEO Extension by Mageplaza](https://github.com/mageplaza/magento-2-seo-extension) - Mageplaza SEO extension will automatically optimize and greatly improve the performance of your Magento-based store in Search Engines
 
 ## Sample of extensions
 
