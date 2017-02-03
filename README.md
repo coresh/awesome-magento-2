@@ -16,6 +16,7 @@ Inspired by: https://github.com/ziadoz/awesome-php
     - [Category](#category)
         - [Create category](#create-category)
         - [Update category](#update-category)
+- [Data generators](#data-generators)
 - [Sample of extensions](#sample-of-extensions)
 
 ## Awesome Magento 2 Extensions
@@ -57,6 +58,10 @@ Any purpose custom scripts
 #### Update category
 * [Update category](https://github.com/coresh/magento2scripts/blob/master/magento2_update_category_programmatically.php) - Update existed category for specified store (store view) programmatically
 
+## Data generators
+
+* [Magento 2 sample data generator](https://github.com/rogyar/m2-sampledata-generator) - The extension adds an additional CLI command to Magento 2 that allows to generate sample entities: Products, Categories, Customers, Orders
+
 ## Sample of extensions
 
 * [How to create own processor SCSS source files](https://github.com/magento/magento2-samples/tree/master/module-sample-scss) - An extension to add alternative processor for source files. This source processor works only with SCSS source files and may used as example
@@ -77,6 +82,5 @@ Any purpose custom scripts
 * [Module theme](https://github.com/magento/magento2-samples/tree/master/sample-module-theme) - This extension contains a sample theme for Magento 2
 * [Webapi client](https://github.com/magento/magento2-samples/tree/master/sample-module-webapi-client) - This module contains a page which can be viewed at /samplewebapiclient. This page features a demo of REST API being used to query products
 * [Webflow](https://github.com/magento/magento2-samples/tree/master/sample-module-webflow) - This extension contains a simple demonstrate of two page linked together in a flow. The example can be accessed at the following url: 'magento2-url/webflow/firstpage'
-* [Magento 2 sample data generator](https://github.com/rogyar/m2-sampledata-generator) - The extension adds an additional CLI command to Magento 2 that allows to generate sample entities: Products, Categories, Customers, Orders
 
 
